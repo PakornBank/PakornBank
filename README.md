@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Pakorn 👋
 
-<!--
-**PakornBank/PakornBank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 About Me
+- 🎓 Student of Computer Engineering & Digital Technology,
+Chulalongkorn University.
+- 🔭 Embarking on a journey towards becoming a developer.
+- 🌱 Deep diving into the world of full-stack web development.
+- 📚 Committed to lifelong learning and steadfastly pursuing my goals with determination.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- 💻 &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+- 🌐 &nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+- 🛢 &nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+- 🔧 &nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
