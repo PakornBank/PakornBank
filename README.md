@@ -1,7 +1,7 @@
 # Hi, I'm Pakorn 👋
 
-### 📌 https://pakornportfolio.netlify.app/
-
+<!--### 📌 https://pakornportfolio.netlify.app/
+-->
 ## 🌐 About Me 
 
 - 🎓 Student of Computer Engineering & Digital Technology,
