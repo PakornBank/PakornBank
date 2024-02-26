@@ -7,7 +7,7 @@
 - 🎓 Student of Computer Engineering & Digital Technology,
 Chulalongkorn University.
 - 🔭 Embarking on a journey towards becoming a developer.
-- 🌱 Deep diving into the world of full-stack web development.
+- 🌱 Deep diving into the world of full-stack software development.
 - 📚 Committed to lifelong learning and steadfastly pursuing my goals with determination.
 
 ## 🛠 Tech Stack
