@@ -1,7 +1,6 @@
 # Hi, I'm Pakorn 👋
 
-<!--### 📌 https://pakornportfolio.netlify.app/
--->
+
 ## 🌐 About Me 
 
 - 🎓 Student of **Computer Engineering & Digital Technology,
@@ -35,5 +34,12 @@ Chulalongkorn University**.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 - 🤖 &nbsp; ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+![stat](https://github-readme-stats.vercel.app/api?username=PakornBank&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![stat](https://github-readme-streak-stats.herokuapp.com/?user=PakornBank&theme=vue-dark&hide_border=true)
+
+
 
 
