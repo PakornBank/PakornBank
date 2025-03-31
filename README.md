@@ -1,6 +1,6 @@
 # Hi, I'm Pakorn 👋
 
-🔗[Portfolio Site](https://pakorn.dev)
+🔗[pakorn.dev](https://pakorn.dev)
 ## 🌐 About Me 
 
 - 🎓 Student of **Computer Engineering & Digital Technology,
